@@ -10,7 +10,7 @@ title: "Pricing"
 * A customizable dance machine with an adjustable list of songs! Feel free to ask for specific songs
 * Adjustable TV and stereo setup
 
-![dance_setup](/assets/images/dance_setup.jpg)
+![dance_setup](../assets/images/dance_setup.jpg)
 
 **We also offer $150 discount if your wedding is at one of the below participating locations:**
 * [Black Forest by Wedgewood Weddings](https://www.wedgewoodweddings.com/blackforest)

@@ -8,4 +8,4 @@ We are excited to talk to you about the details of your wedding!
 
 **Direct Email:** [heartbeatrentals@gmail.com](mailto:heartbeatrentals@gmail.com)
 
-![image](../assets/images/logo.png)
+![logo](../assets/images/logo.png)
