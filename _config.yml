@@ -35,7 +35,7 @@ footer:
       url: "mailto:heartbeatrentals@gmail.com"
     - label: "480-282-7364"
       icon: "fa fa-phone "
-      url: "/contact"
+      url: "heartbeat-rentals/contact"
 
 defaults:
   - scope:
