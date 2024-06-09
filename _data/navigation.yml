@@ -1,9 +1,9 @@
 main:
+  - title: "Rent Now"
+    url: /contact/
   - title: "About Us"
     url: /about_us/
   - title: "Pricing"
     url: /pricing/
-  - title: "Contact"
-    url: /contact/
   - title: "Songs List"
     url: /songs_list/

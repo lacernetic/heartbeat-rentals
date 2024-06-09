@@ -3,6 +3,16 @@ permalink: /pricing/
 title: "Pricing"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## $650 for the entire event
+#### What exactly do you get?
+* A technical engineer working the night to answer any questions and ensure all guests enjoy the machine
+* 2 dance pads
+* A customizable dance machine with an adjustable list of songs! Feel free to ask for specific songs
+* Adjustable TV and stereo setup
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+![dance_setup](/assets/images/dance_setup.jpg)
+
+**We also offer $150 discount if your wedding is at one of the below participating locations:**
+* [Black Forest by Wedgewood Weddings](https://www.wedgewoodweddings.com/blackforest)
+
+Don't see your venue on here? Talk to your wedding coordinator and ask them to reach out to us!
